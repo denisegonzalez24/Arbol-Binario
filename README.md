@@ -1,6 +1,6 @@
 ## <h1 align=center> ÁRBOL BINARIO </h1>
 
-<p align=center><img src=images/arbol-bin.jpeg width="200"><p>
+<p align=center><img src=images/arbol-bin.jpeg width="150"><p>
 
 
 
