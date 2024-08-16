@@ -1,4 +1,4 @@
-## <h1 align=center> ArbolBinario </h1>
+## <h1 align=center> ÁRBOL BINARIO </h1>
 
 <p align=center><img src=images/arbol-bin.jpeg width="200"><p>
 
